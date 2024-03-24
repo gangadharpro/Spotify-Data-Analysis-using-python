@@ -1,0 +1,2 @@
+tracks :https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=tracks.csv
+genres :https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python/data?select=SpotifyFeatures.csv
